@@ -1,3 +1,8 @@
+# The Movie Search
+The Movie Search is a responsive [React](https://reactjs.org/) app that shows details about your favourite movies using data from [TMDb](https://www.themoviedb.org) API.
+
+![Working demo gif](./demo-ss/demo.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
